@@ -5,6 +5,64 @@ Cross-platform mobile application (iOS & Android) for pet owners and professiona
 
 ---
 
+
+## 🧪 Testing the Mobile App
+
+### **Test Accounts:**
+
+#### Pet Owner Account:
+```
+Email:    owner@galipet.com
+Password: Owner1234!
+```
+
+#### Professional Account:
+```
+Email:    professional@galipet.com
+Password: Professional1234!
+```
+
+### **Owner Quick Start:**
+1. Open app and select "Login"
+2. Enter owner email & password
+3. Allow location permissions
+4. Browse nearby professionals on map
+5. Click professional to view profile & services
+6. Select service, date, and time
+7. Complete payment with test card: `4242 4242 4242 4242`
+8. View booking confirmation
+9. Chat with professional in real-time
+10. Leave review after service completion
+
+### **Professional Quick Start:**
+1. Open app and select "Login"
+2. Enter professional email & password
+3. View pending booking requests on dashboard
+4. Confirm or decline bookings
+5. Chat with pet owners
+6. Set availability schedule
+7. View earnings and completed bookings
+8. Receive push notifications for new requests
+
+### **Test Features:**
+- Real-time chat with Socket.IO
+- Location-based professional search
+- Secure payment processing (Stripe test mode)
+- Push notifications (Firebase)
+- Booking lifecycle management
+- Professional ratings & reviews
+- Pet profile management
+- Marketplace browsing & ordering
+
+### **Test Payment Card (Stripe):**
+```
+Card Number: 4242 4242 4242 4242
+Expiry:      Any future date (e.g., 12/25)
+CVC:         Any 3 digits (e.g., 123)
+```
+
+---
+
 ## 🛠️ Tech Stack
 
 | Technology | Version | Purpose |
