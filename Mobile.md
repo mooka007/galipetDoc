@@ -18,8 +18,8 @@ Password: Owner1234!
 
 #### Professional Account:
 ```
-Email:    professional@galipet.com
-Password: Professional1234!
+Email:    vet@galipet.com
+Password: Pro1234!
 ```
 
 ### **Owner Quick Start:**
