@@ -5,6 +5,32 @@ Web-based admin control panel for managing users, professionals, bookings, order
 
 ---
 
+## 🧪 Testing the Dashboard
+
+### Admin Credentials:
+```
+Email:    admin@galipet.com
+Password: Admin1234!
+```
+
+### Quick Start:
+1. Navigate to dashboard login page
+2. Enter email: `admin@galipet.com`
+3. Enter password: `Admin1234!`
+4. Click "Login"
+5. You'll be redirected to the Overview dashboard
+6. Explore all pages: Users, Professionals, Bookings, Orders, Products
+7. Real-time data updates every 30 seconds
+
+### Test Features:
+- View real-time booking statistics
+- Check professional verification status
+- Monitor marketplace orders
+- See user satisfaction ratings
+- Access detailed booking history
+
+---
+
 ## 🛠️ Tech Stack
 
 | Technology | Version | Purpose |
@@ -91,3 +117,7 @@ npm run preview  # Preview production build
 6. If token expires, `refreshToken` automatically gets new `accessToken`
 
 ---
+
+
+
+_Built with React + TanStack Query for real-time admin control_ 📈
